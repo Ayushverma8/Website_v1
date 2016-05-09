@@ -1,0 +1,9 @@
+<span id="a">Ayush@www</span>:<span id="b">~</span><span id="c">$</span> cat ayush.txt<br/><br/>
+Hi, I'm Ayush Verma.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing Second year of my UG in CS from <a href="http://www.srmuniv.edu.in/" target="_blank">SRM University</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>I'm a <a href="http://www.github.com/Ayushverma8/" target="_blank">Developer</a>, geek and curious human besides being an OpenSource enthusiast and the CTO of <a href="http://www.goout.co.in/" target="_blank">GoOut</a>. I have experience as a Graphic Design Intern at Wittyfeed. I am currently working as a Team Member at <a href="http://srmuav.com/">SRM UAV</a>. </p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>I love to read, listen to music, and travel.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+If you would like to get in touch with me, be it for tech support, a business, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:ayushverma111@gmail.com">ayushverma111@gmail.com</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+
+<p>I express myself through blogs. Visit <a href="http://ayushverma.xyz/" target="_blank">Ayushverma.xyz</a> and <a href="http://p0el08.blogspot.com/" target="_blank">Blogspot</a> for reading about my awesome projects, tips, tricks, tutorials and lot more.</p>
+
+<p>It's my social responsibility to tell where I partied last Saturday <br>Find me on <a class="facebook" target="_blank" href="http://www.facebook.com/Ayushverma111">Facebook</a> , <a class="twitter" href="http://www.twitter.com/Ayush08" target="_blank">Twitter</a>, <a href="http://www.google.com/+Ayushverma08" target="_blank" class="google">Google+</a></p>
